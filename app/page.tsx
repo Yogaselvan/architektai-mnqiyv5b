@@ -1,7 +1,7 @@
 import { Button, Card, CardBody, Chip, Divider } from "@heroui/react";
 import { ChevronRight } from "lucide-react";
 
-export default function ModerniArchitekturaPradzia() {
+export default function Moderniarchitekturapradzia() {
   return (
     <div className="bg-background min-h-screen">
       <section className="relative min-h-screen flex items-center">

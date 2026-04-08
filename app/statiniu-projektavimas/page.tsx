@@ -1,7 +1,7 @@
 import { Card, CardBody, Button, Chip, Divider } from "@heroui/react";
 import Link from "next/link";
 
-export default function StatiniuProjektavimas() {
+export default function Statiniuprojektavimas() {
   return (
     <main className="bg-background min-h-screen">
       <section className="py-20">

@@ -1,7 +1,7 @@
 import { Button, Card, CardBody, Input, Textarea, Divider, Chip } from "@heroui/react";
 import { useState } from "react";
 
-export default function NamoPridavimas() {
+export default function Namopridavimas() {
   const [formData, setFormData] = useState({
     vardas: "",
     elpastas: "",

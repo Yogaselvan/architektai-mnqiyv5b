@@ -1,7 +1,7 @@
 import { Button, Card, CardBody } from "@heroui/react";
 import Link from "next/link";
 
-export default function Teritoriju-planavimasPage() {
+export default function Teritorijaplanavimaspage() {
   return (
     <div>
       <section className="py-24 px-6 bg-content1">
