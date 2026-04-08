@@ -1,3 +1,5 @@
+"use client";
+
 import { Divider, Link } from "@heroui/react";
 
 export function SiteFooter() {
