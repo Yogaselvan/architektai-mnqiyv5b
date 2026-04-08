@@ -1,3 +1,4 @@
+"use client";
 import { Button, Card, CardBody, Input, Textarea, Divider, Chip } from "@heroui/react";
 import { useState } from "react";
 
